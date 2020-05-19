@@ -1,2 +1,2 @@
-# Github-example2
+# Coursera_Capstone
 How to create Github repository 
